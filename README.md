@@ -42,3 +42,6 @@ Pine Needle Tea:
 - Turkish translation by Elderly-Emre
 - Russian translation by Mazytus
 - German translation by Rataj1250
+
+## Support
+You can support me via donations [here](https://ko-fi.com/marcythejinx)!
